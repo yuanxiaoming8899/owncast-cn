@@ -1,140 +1,110 @@
-<br />
-<p align="center">
-  <a href="https://github.com/owncast/owncast" alt="Owncast">
-    <img src="https://owncast.online/images/logo.png" alt="Logo" width="200">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><br>
+<p align="center" dir="auto">
+  <a href="https://github.com/owncast/owncast" alt="自播">
+    <img src="https://camo.githubusercontent.com/1d1e0af8678177951cf46b97d5b729f54fd92f49182734c71133b6296e686684/68747470733a2f2f6f776e636173742e6f6e6c696e652f696d616765732f6c6f676f2e706e67" alt="标识" width="200" data-canonical-src="https://owncast.online/images/logo.png" style="max-width: 100%;">
   </a>
 </p>
-
-<br/>
-
-  <p align="center">
-    <strong>Take control over your content and stream it yourself.</strong>
-    <br />
-    <a href="https://owncast.online"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://watch.owncast.online/">View Demo</a>
+<br>
+  <p align="center" dir="auto">
+    <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">掌控您的内容并自行传输。</font></font></strong>
+    <br>
+    <a href="https://owncast.online" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览文档 »</font></font></strong></a>
+    <br>
+    <a href="https://watch.owncast.online/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     ·
-    <a href="https://broadcast.owncast.online/">Use Our Server for Testing</a>
+    </font></font><a href="https://broadcast.owncast.online/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用我们的服务器进行测试</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     ·
-    <a href="https://owncast.online/faq/">FAQ</a>
+    常见问题</font></font><a href="https://owncast.online/faq/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解答</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     ·
-    <a href="https://github.com/owncast/owncast/issues">Report Bug</a>
+    </font></font><a href="https://github.com/owncast/owncast/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">报告错误</font></font></a>
   </p>
-</p>
+<p dir="auto"></p>
 
-<!-- TABLE OF CONTENTS -->
+<h2 tabindex="-1" dir="auto"><a id="user-content-table-of-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h2>
+<ul dir="auto">
+<li><a href="#about-the-project"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于该项目</font></font></a></li>
+<li><a href="#getting-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a></li>
+<li><a href="#use-with-your-existing-broadcasting-software"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与您的广播软件一起使用</font></font></a></li>
+<li><a href="#building-from-source"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源头构建</font></font></a></li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+<li><a href="#contact"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></a></li>
+</ul>
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-- [Use with your broadcasting software](#use-with-your-existing-broadcasting-software)
-- [Building from source](#building-from-source)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-<p align="center">
-  <a href="https://owncast.online/images/owncast-splash.png">
-    <img src="https://owncast.online/images/owncast-splash.png" width="70%">
+<h2 tabindex="-1" dir="auto"><a id="user-content-about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于该项目</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://owncast.online/images/owncast-splash.png" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/9cae66e4e0f53b20f4fba32ded5824f47c95408ef2c6638c0bd08cfb16679440/68747470733a2f2f6f776e636173742e6f6e6c696e652f696d616765732f6f776e636173742d73706c6173682e706e67" width="70%" data-canonical-src="https://owncast.online/images/owncast-splash.png" style="max-width: 100%;">
   </a>
 </p>
-
-Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. It offers complete ownership over your content, interface, moderation and audience. <a href="https://watch.owncast.online">Visit the demo</a> for an example.
-
-<div>
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/owncast/owncast/total?style=for-the-badge">
-	  <a href="https://hub.docker.com/r/owncast/owncast">
-      <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/owncast/owncast?style=for-the-badge">
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Owncast 是一个开源、自托管、去中心化、单用户实时视频流和聊天服务器，用于运行您自己的实时流，其风格与大型主流选项类似。</font><font style="vertical-align: inherit;">它提供对您的内容、界面、审核和受众的完全所有权。</font></font><a href="https://watch.owncast.online" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取示例。</font></font></p>
+<div dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/843f348d22613813d0e33c9fd21de8186031cb8211ac7a935b592b77f191a47f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6f776e636173742f6f776e636173742f746f74616c3f7374796c653d666f722d7468652d6261646765"><img alt="GitHub 所有版本" src="https://camo.githubusercontent.com/843f348d22613813d0e33c9fd21de8186031cb8211ac7a935b592b77f191a47f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6f776e636173742f6f776e636173742f746f74616c3f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/downloads/owncast/owncast/total?style=for-the-badge" style="max-width: 100%;"></a>
+	  <a href="https://hub.docker.com/r/owncast/owncast" rel="nofollow">
+      <img alt="Docker 拉取" src="https://camo.githubusercontent.com/d91b194a3aa7339aa89c2b009e93920ba2fc92f8edd4fefd174497bc83148476/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6f776e636173742f6f776e636173743f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/docker/pulls/owncast/owncast?style=for-the-badge" style="max-width: 100%;">
 	  </a>
     <a href="https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">
-      <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues-raw/owncast/owncast/good%20first%20issue?style=for-the-badge">
+      <img alt="GitHub 按标签发布问题" src="https://camo.githubusercontent.com/d8682f05862b6b516d485feb780392211f67ad780c34f4f145ab5951195a71e1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7261772f6f776e636173742f6f776e636173742f676f6f64253230666972737425323069737375653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/issues-raw/owncast/owncast/good%20first%20issue?style=for-the-badge" style="max-width: 100%;">
     </a>
-    <a href="https://opencollective.com/owncast">
-      <img alt="Open Collective backers and sponsors" src="https://img.shields.io/opencollective/all/owncast?style=for-the-badge">
+    <a href="https://opencollective.com/owncast" rel="nofollow">
+      <img alt="开放集体的支持者和赞助商" src="https://camo.githubusercontent.com/034026a8faaaccd50e0cc2feb76c35a95464dfdcc07889c423947f3a6985e704/68747470733a2f2f696d672e736869656c64732e696f2f6f70656e636f6c6c6563746976652f616c6c2f6f776e636173743f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/opencollective/all/owncast?style=for-the-badge" style="max-width: 100%;">
     </a>
 </div>
+<hr>
 
----
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的目标是拥有一个可以运行并且开箱即用的服务。</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问</font></font><a href="https://owncast.online/docs/quickstart/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速入门</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以启动并运行。</font></font></strong></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-use-with-your-existing-broadcasting-software" class="anchor" aria-hidden="true" tabindex="-1" href="#use-with-your-existing-broadcasting-software"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与您现有的广播软件一起使用</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一般来说，Owncast 与任何用于</font></font><code>RTMP</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向远程服务器广播的软件兼容。</font></font><code>RTMP</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是所有主要直播流媒体服务都使用的服务，因此，如果您当前正在使用其中之一，则可能可以将现有软件指向 Owncast 实例。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OBS、Streamlabs、Restream 和许多其他工具已与 Owncast 一起使用。</font></font><a href="https://owncast.online/docs/broadcasting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关与现有软件的兼容性的更多信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-building-from-source" class="anchor" aria-hidden="true" tabindex="-1" href="#building-from-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源头构建</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Owcast 由两个项目组成。</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Owncast 后端是用 Go 编写的。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端是用 React 编写的。</font></font></li>
+</ol>
+<p dir="auto"><a href="https://owncast.online/development/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读有关从源代码运行的更多信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-important-note-about-source-code-and-the-develop-branch" class="anchor" aria-hidden="true" tabindex="-1" href="#important-note-about-source-code-and-the-develop-branch"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于源代码和开发分支的重要说明</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分支</font></font><code>develop</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">始终是最新的开发状态，这可能不是您总是想要的。</font><font style="vertical-align: inherit;">如果您想运行最新发布的稳定版本，请查看与该版本相关的标签。</font><font style="vertical-align: inherit;">例如，如果您只需要 v0.1.0 开发周期之前的源代码，则可以查看该</font></font><code>v0.0.13</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标签。</font></font></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：目前 Owncast 本身不支持 Windows 服务器。</font><font style="vertical-align: inherit;">但是，Windows 用户可以使用 Windows Subsystem for Linux (WSL2) 来安装 Owncast。</font><font style="vertical-align: inherit;">有关详细信息，请访问</font></font><a href="https://github.com/owncast/owncast/blob/develop/contrib/owncast_for_windows.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+</blockquote>
+<h3 tabindex="-1" dir="auto"><a id="user-content-backend" class="anchor" aria-hidden="true" tabindex="-1" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后端</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Owncast 后端是用 Go 编写的服务。</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">确保您已安装先决条件。
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C 编译器，例如</font></font><a href="https://gcc.gnu.org/install/download.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GCC 编译器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://musl.libc.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Musl 兼容编译器</font></font></a></li>
+<li><a href="https://ffmpeg.org/download.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ffmpeg</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font><a href="https://golang.org/dl/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Go 工具链</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（1.21 或更高版本）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克隆存储库。</font></font><code>git clone https://github.com/owncast/owncast</code></li>
+<li><code>go run main.go</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将从源头运行。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问</font></font><code>http://yourserver:8080</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以访问网络界面或</font></font><code>http://yourserver:8080/admin</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问管理员。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将您的</font></font><a href="https://owncast.online/docs/broadcasting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">广播软件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指向新服务器并开始流式传输。</font></font></li>
+</ol>
+<h3 tabindex="-1" dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" tabindex="-1" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端是 Web 界面，包括播放器、聊天、嵌入组件和其他 UI。</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目位于该</font></font><code>web</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录中。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font><code>npm install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以安装 Javascript 依赖项。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font><code>npm run dev</code></li>
+</ol>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Owncast 是一个不断发展的开源项目，为直播主播提供自由、灵活性和乐趣。</font><font style="vertical-align: inherit;">虽然我们拥有一支由善良、才华横溢且深思熟虑的志愿者组成的小团队，但我们希望填补技能方面的空白，以便我们能够更好地构建为人们带来改变的工具。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们遵守我们的</font></font><a href="https://owncast.online/contribute/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为准则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并强烈欢迎开放、感恩和富有同理心的人们加入我们。</font><font style="vertical-align: inherit;">到目前为止，我们非常幸运能够拥有这个，所以也许您也可以用您的技能和热情帮助我们！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的网站上有一个更大、更详细、更最新的</font></font><a href="https://owncast.online/help/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南，可以帮助您为 Owncast 做出贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 
-<!-- GETTING STARTED -->
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据 MIT 许可证分发。</font><font style="vertical-align: inherit;">请参阅</font></font><code>LICENSE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取更多信息。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-supported-by" class="anchor" aria-hidden="true" tabindex="-1" href="#supported-by"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持者</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><a href="https://browserstack.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目使用BrowserStack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行测试</font><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
 
-## Getting Started
-
-The goal is to have a single service that you can run and it works out of the box. **Visit the [Quickstart](https://owncast.online/docs/quickstart/) to get up and running.**
-
-## Use with your existing broadcasting software
-
-In general, Owncast is compatible with any software that uses `RTMP` to broadcast to a remote server. `RTMP` is what all the major live streaming services use, so if you’re currently using one of those it’s likely that you can point your existing software at your Owncast instance instead.
-
-OBS, Streamlabs, Restream and many others have been used with Owncast. [Read more about compatibility with existing software](https://owncast.online/docs/broadcasting/).
-
-## Building from Source
-
-Owncast consists of two projects.
-
-1. The Owncast backend is written in Go.
-1. The frontend is written in React.
-
-[Read more about running from source](https://owncast.online/development/).
-
-### Important note about source code and the develop branch
-
-The `develop` branch is always the most up-to-date state of development and this may not be what you always want. If you want to run the latest released stable version, check out the tag related to that release. For example, if you'd only like the source prior to the v0.1.0 development cycle you can check out the `v0.0.13` tag.
-
-> Note: Currently Owncast does not natively support Windows servers. However, Windows Users can use Windows Subsystem for Linux (WSL2) to install Owncast. For details visit [this document](https://github.com/owncast/owncast/blob/develop/contrib/owncast_for_windows.md).
-
-### Backend
-
-The Owncast backend is a service written in Go.
-
-1. Ensure you have prerequisites installed.
-   - C compiler, such as [GCC compiler](https://gcc.gnu.org/install/download.html) or a [Musl-compatible compiler](https://musl.libc.org/)
-   - [ffmpeg](https://ffmpeg.org/download.html)
-1. Install the [Go toolchain](https://golang.org/dl/) (1.21 or above).
-1. Clone the repo. `git clone https://github.com/owncast/owncast`
-1. `go run main.go` will run from the source.
-1. Visit `http://yourserver:8080` to access the web interface or `http://yourserver:8080/admin` to access the admin.
-1. Point your [broadcasting software](https://owncast.online/docs/broadcasting/) at your new server and start streaming.
-
-### Frontend
-
-The frontend is the web interface that includes the player, chat, embed components, and other UI.
-
-1. This project lives in the `web` directory.
-1. Run `npm install` to install the Javascript dependencies.
-1. Run `npm run dev`
-
-## Contributing
-
-Owncast is a growing open source project that is giving freedom, flexibility and fun to live streamers.
-And while we have a small team of kind, talented and thoughtful volunteers, we have gaps in our skillset that we’d love to fill so we can get even better at building tools that make a difference for people.
-
-We abide by our [Code of Conduct](https://owncast.online/contribute/) and feel strongly about open, appreciative, and empathetic people joining us.
-We’ve been very lucky to have this so far, so maybe you can help us with your skills and passion, too!
-
-There is a larger, more detailed, and more up-to-date [guide for helping contribute to Owncast on our website](https://owncast.online/help/).
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Supported by
-
-- This project is tested with [BrowserStack](https://browserstack.com).
-
-<!-- CONTACT -->
-
-## Contact
-
-Project chat: [Join us on Rocket.Chat](https://owncast.rocket.chat/home) if you want to contribute, follow along, or if you have questions.
-
-Gabe Kangas - [@gabek@social.gabekangas.com](https://social.gabekangas.com/gabek) - email [gabek@real-ity.com](mailto:gabek@real-ity.com)
-
-Project Link: [https://github.com/owncast/owncast](https://github.com/owncast/owncast)
+<h2 tabindex="-1" dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" tabindex="-1" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目聊天：</font><font style="vertical-align: inherit;">如果您想贡献、关注或有疑问，</font></font><a href="https://owncast.rocket.chat/home" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请加入我们的 Rocket.Chat 。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加布·坎加斯 - </font></font><a href="https://social.gabekangas.com/gabek" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@gabek@social.gabekangas.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 电子邮件</font></font><a href="mailto:gabek@real-ity.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gabek@real-ity.com</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目链接： https: </font></font><a href="https://github.com/owncast/owncast"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/owncast/owncast</font></font></a></p>
+</article></div>
